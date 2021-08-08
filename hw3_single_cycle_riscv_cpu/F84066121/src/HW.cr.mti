@@ -1,0 +1,48 @@
+C:/Users/User/Desktop/hw3_single_cycle_riscv_cpu/F84066121/src/SRAM.v {1 {vlog -work work -stats=none C:/Users/User/Desktop/hw3_single_cycle_riscv_cpu/F84066121/src/SRAM.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SRAM
+
+Top level modules:
+	SRAM
+
+} {} {}} C:/Users/User/Desktop/hw3_single_cycle_riscv_cpu/F84066121/src/top.v {1 {vlog -work work -stats=none C:/Users/User/Desktop/hw3_single_cycle_riscv_cpu/F84066121/src/top.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module CPU
+-- Compiling module SRAM
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/Users/User/Desktop/hw3_single_cycle_riscv_cpu/F84066121/src/CPU.v {0 {vlog -work work -stats=none {C:\Users\User\Desktop\hw3_single_cycle_riscv_cpu\F84066121\src\CPU.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ControlUnit
+-- Compiling module ALU
+-- Compiling module RegFile
+-- Compiling module DealImme
+-- Compiling module Shift
+-- Compiling module PC
+-- Compiling module PCMux
+-- Compiling module DealJorU
+-- Compiling module ShamtMux
+-- Compiling module rdMux
+-- Compiling module ALUMux
+-- Compiling module DealLoad
+-- Compiling module DealStore
+-- Compiling module DealInstrRead
+-- Compiling module DealDataRead
+-- Compiling module DataAddr
+-- Compiling module UseMem
+-- Compiling module StoreInstr
+-- Compiling module CPU
+** Error: (vlog-13069) C:\Users\User\Desktop\hw3_single_cycle_riscv_cpu\F84066121\src\CPU.v(672): near "EOF": syntax error, unexpected end of source code.
+
+
+} {22.0 23.0} {}} C:/Users/User/Desktop/hw3_single_cycle_riscv_cpu/F84066121/src/top_tb.v {1 {vlog -work work -stats=none C:/Users/User/Desktop/hw3_single_cycle_riscv_cpu/F84066121/src/top_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module top_tb
+
+Top level modules:
+	top_tb
+
+} {} {}}
