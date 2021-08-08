@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vtraffic_light
+!s110 1614670756
+!i10b 1
+!s100 cMHzNgJWZoVJ0ZNihLe^e3
+I^E[=JH1d55MlbXiMKfm@f2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/User/Desktop/hw1/hw1_trafficlight/F84066121/src
+w1614670249
+8C:/Users/User/Desktop/hw1/hw1_trafficlight/F84066121/src/traffic_light.v
+FC:/Users/User/Desktop/hw1/hw1_trafficlight/F84066121/src/traffic_light.v
+L0 1
+Z2 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1614670756.000000
+!s107 C:/Users/User/Desktop/hw1/hw1_trafficlight/F84066121/src/traffic_light.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/hw1/hw1_trafficlight/F84066121/src/traffic_light.v|
+!s101 -O0
+!i113 1
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vtraffic_light_tb
+!s110 1614670764
+!i10b 1
+!s100 `FLFIQa1CaM<kLDhiaDIc2
+IR]O[IFRRA;5BVoeH:17ed3
+R0
+R1
+w1613988057
+8C:/Users/User/Desktop/hw1/hw1_trafficlight/F84066121/src/traffic_light_tb.v
+FC:/Users/User/Desktop/hw1/hw1_trafficlight/F84066121/src/traffic_light_tb.v
+L0 7
+R2
+r1
+!s85 0
+31
+!s108 1614670764.000000
+!s107 C:/Users/User/Desktop/hw1/hw1_trafficlight/F84066121/src/traffic_light_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/hw1/hw1_trafficlight/F84066121/src/traffic_light_tb.v|
+!s101 -O0
+!i113 1
+R3
